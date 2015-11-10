@@ -22,9 +22,6 @@ public class Ejemplo extends GraphicsProgram{
 			i++;
 			j = 0;
 			}
-		if(j == 1){
-			i = 5;
-		}
 	}
 }
 
